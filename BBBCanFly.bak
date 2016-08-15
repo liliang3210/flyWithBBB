@@ -49,11 +49,15 @@ S 7350 4150 1150 600
 U 570FB5F5
 F0 "power" 60
 F1 "power.sch" 60
+F2 "24V" O R 8500 4300 60 
 $EndSheet
 $Sheet
 S 9100 4150 1200 550 
 U 570FB5F8
 F0 "interface" 60
 F1 "interface.sch" 60
+F2 "24V" I L 9100 4300 60 
 $EndSheet
+Wire Wire Line
+	9100 4300 8500 4300
 $EndSCHEMATC
