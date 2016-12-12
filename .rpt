@@ -1,0 +1,11 @@
+** Drc report for /home/liliang/Documents/BeagleboneCanFly/BBBCanFly.kicad_pcb **
+** Created on 2016-12-12 16:48:23 **
+
+** Found 0 DRC errors **
+
+** Found 1 unconnected pads **
+ErrType(2): Unconnected pads
+    @ (45.085 mm,65.675 mm): Pad 2 on F.Cu, Non-copper of C4 net GND
+    @ (45.085 mm,70.755 mm): Pad 2 on F.Cu, Non-copper of C2
+
+** End of Report **
